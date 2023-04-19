@@ -1,0 +1,15 @@
+.post-list-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90%;
+    flex-direction: column;
+    margin-top: 0 auto;
+}
+.listapost-page{
+    height: 10%;
+    width: 100%;
+    margin-top: 50px;
+    background-image: url("../assets/fondo.jfif");
+    background-repeat: repeat;
+}
